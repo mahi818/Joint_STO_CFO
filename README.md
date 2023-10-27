@@ -1,2 +1,2 @@
 # Joint_STO_CFO
-Author-Mahesh Chaudhari
+Author-Mahesh Chaudhari (STO_CFO)
